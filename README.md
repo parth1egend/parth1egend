@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Parth+%F0%9F%91%8B;Building+with+AI+%2F+ML+%26+Code;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Parth+%F0%9F%91%8B;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=parth1egend&color=7aa2f7&style=flat)
 
@@ -27,20 +27,7 @@
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=parth1egend&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth1egend&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=parth1egend&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=parth1egend&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+<img height="160em" src="https://streak-stats.demolab.com/?user=parth1egend&theme=tokyonight&hide_border=true" />
 
 </div>
-
-### 🚀 Featured Projects
-
-| Project | About | Stack |
-|---|---|---|
-| [Bosch_Project](https://github.com/parth1egend/Bosch_Project) | RAG + Vector DB chatbot for Q&A — Bosch hackathon | `Python` `RAG` |
-| [josaacounselinghelper](https://github.com/parth1egend/josaacounselinghelper) | JoSAA counseling helper web app | `HTML` |
-| [poker-payout-calc](https://github.com/parth1egend/poker-payout-calc) | Poker payout calculator | `TypeScript` |
-| [Convolve_Round2](https://github.com/parth1egend/Convolve_Round2) | ML / data challenge notebooks | `Jupyter` |
